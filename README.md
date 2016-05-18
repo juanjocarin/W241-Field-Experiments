@@ -1,6 +1,6 @@
 # W241 Field Experiments
 
-+ Sylllabus:
++ Syllabus:
     + The importance of experimentation: reverse causality, sample selection
     + Comparing apples to apples: randomization and independence, potential outcomes
     + Quantifying uncertainty: sampling distributions, randomization inference, p-values, statistical power, confidence intervals
