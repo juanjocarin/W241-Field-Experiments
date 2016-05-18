@@ -9,7 +9,8 @@
 7. Incomplete control over treatment delivery: one-sided non-compliance, CACE vs. ATE
 8. Spillovers
 9. Causality from observational data: natural experiments (IV), difference in difference, regression discontinuity
-10. Additional topics: (differential) attrition, mediation, generalization of Results, observation versus experiment, prediction versus inference, attempts to fix observational data (propensity scores, matching)
+10. Additional topics: (differential) attrition, mediation, generalization of results, observation versus experiment, prediction versus inference, attempts to fix observational data (propensity scores, matching)
+
 
 
 + 5 problem sets and a final project (all using **R**): "[*Investigating the effect of competition on the ability to solve arithmetic problems*](https://docs.google.com/viewer?url=https://github.com/juanjocarin/W241-Field-Experiments/raw/master/Final%20Project/FinalPaper_Soto-Neff-Carin-Tumuluri.pdf)."
